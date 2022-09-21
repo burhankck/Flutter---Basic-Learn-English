@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "211146877324",
+    "project_id": "bogo-8c68c",
+    "storage_bucket": "bogo-8c68c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211146877324:android:721939f7e90dc2de968ea9",
+        "android_client_info": {
+          "package_name": "com.example.bogo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211146877324-c1q6cfk0l9d4jidf1q7fs9oqdjij05tl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCny6htVMIzDlxRKS7iadL3W0d-wzEg6tg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211146877324-c1q6cfk0l9d4jidf1q7fs9oqdjij05tl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
